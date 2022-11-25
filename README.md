@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:haziqwahid02@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haziqwahid020101/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
-<a href="https://haziqwahid02.wixsite.com/portfoliohw" target="blank"><img align="center" src="https://cdn1.vectorstock.com/i/1000x1000/56/05/website-icon-www-icon-vector-28695605.jpg" alt="" height="30" width="40" /></a> <-- Click me
+<a href="https://www.linkedin.com/in/haziqwahid020101/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
+<a href="https://haziqwahid02.wixsite.com/portfoliohw" target="_blank"><img align="center" src="https://cdn1.vectorstock.com/i/1000x1000/56/05/website-icon-www-icon-vector-28695605.jpg" alt="" height="30" width="40" /></a> <-- Click me
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
