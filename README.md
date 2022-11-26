@@ -49,6 +49,16 @@
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/640px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="" height="45" width="45"/>
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="" height="45" width="45"/>
 </p>
+ 
+ 
+### Ai | Software Developer/Engineer | Data Scientist/Analyst
 
+
+<p align="center" >
+<a href="https://github.com/HaziqWahid/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=HaziqWahid&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
 
 
