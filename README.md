@@ -1,5 +1,5 @@
-# MUHAMMAD HAZIQ BIN MOHAMAD WAHID @ STUDENT OF UNIVERSITI SAIND MALAYSIA
-### Helloo hiiiii 🙋‍♂️
+### MUHAMMAD HAZIQ BIN MOHAMAD WAHID @ STUDENT OF UNIVERSITI SAIND MALAYSIA
+### Helloo Hiiiii... 🙋‍♂️
 - 🎖️ I’m currently studying in Computer Sciences @ University Sciences Malaysia
 - 🤖 BSC in Computer Sciences
 - 🎓Majoring in Intelligent Computing
