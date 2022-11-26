@@ -1,4 +1,4 @@
-### HAZIQ WAHID @ STUDENT OF UNIVERSITI SAIND MALAYSIA https://github.com/abhisheknaiidu/awesome-github-profile-readme#anime-
+### HAZIQ WAHID @ STUDENT OF UNIVERSITI SAIND MALAYSIA 
 ### Helloo Hiiiii... <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 - 🎖️ I’m currently studying in Computer Sciences @ University Sciences Malaysia
 - 🤖 BSC in Computer Sciences
@@ -52,6 +52,8 @@
  
  
 ### Ai | Software Developer/Engineer | Data Scientist/Analyst
+
+### 📊 Github Stats </p>
 
 
 <p align="center" >
