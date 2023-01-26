@@ -25,6 +25,7 @@
 <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="" height="50" width="50"/>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="" height="50" width="50"/>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="" height="50" width="50"/>
+ <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="" height="50" width="50"/>
 </p>
 
 <h3 align="left">Software I use:</h3>
@@ -42,6 +43,8 @@
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="" height="45" width="45"/>
 <img align="center" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/jupyter-icon-1024x1024.png" alt="" height="45" width="45"/>
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="" height="45" width="45"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2752187-2285004.png" alt="" height="45" width="45"/>
+ 
 </p>
 
 <p>
