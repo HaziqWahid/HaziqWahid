@@ -6,6 +6,7 @@
 - 🎓Elective in Software Engineering
 - 💻 I’m interested and passionate in Data Analyst/ Scientist , Ai Engineering, Software Development/ Engineering
 - 🎈 Fun fact: I love to code.
+- Internship at MyWave as Full Stack Developer (March - September 20203) working on HTMLS, JS,CSS, PHP, POSTGRE SQL, REACT
 
 ### Currently looking for internship at Malaysia on March,2023. Please hired me 😔😿
 
