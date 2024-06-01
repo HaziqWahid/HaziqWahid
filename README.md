@@ -60,11 +60,6 @@
 ### 📊 Github Stats </p>
 
 
-<p align="center" >
-<a href="https://github.com/HaziqWahid/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=HaziqWahid&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HaziqWahid&theme=dark)](https://git.io/streak-stats)
 
 
