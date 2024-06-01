@@ -59,7 +59,7 @@
 
 ### 📊 Github Stats </p>
 
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HaziqWahid?cardType=octocat&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HaziqWahid&theme=dark)](https://git.io/streak-stats)
 
 
