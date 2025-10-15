@@ -1,14 +1,13 @@
 ### HAZIQ WAHID @ STUDENT OF UNIVERSITI SAINS MALAYSIA 
 ### Helloo Hiiiii... <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-- 🎖️ I’m currently studying in Computer Sciences @ University Sciences Malaysia
+- 🎖️ Computer Sciences @ University Sciences Malaysia
 - 🤖 BSC in Computer Sciences
 - 🎓Majoring in Intelligent Computing
 - 🎓Elective in Software Engineering
 - 💻 I’m interested and passionate in Data Analyst/ Scientist , Ai Engineering, Software Development/ Engineering
-- 🎈 Fun fact: I love to code.
 - 🎖️Internship at MyWave as Full Stack Developer (March - September 20203) working on HTMLS, JS,CSS, PHP, POSTGRE SQL, REACT.
 
-### Currently Studying at Universiti Sains Malaysia😔😿
+### Full Time Programmer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
