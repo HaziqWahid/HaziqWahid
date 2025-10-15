@@ -1,5 +1,5 @@
-### HAZIQ WAHID @ STUDENT OF UNIVERSITI SAINS MALAYSIA 
-### Helloo Hiiiii... <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### HAZIQ WAHID @ FULL TIME PROGRAMMER @ EX-STUDENT OF UNIVERSITI SAINS MALAYSIA 
+### <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 - 🎖️ Computer Sciences @ University Sciences Malaysia
 - 🤖 BSC in Computer Sciences
 - 🎓Majoring in Intelligent Computing
