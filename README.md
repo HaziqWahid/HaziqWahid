@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  HAZIQ WAHID 
+  HAXIQ WAHID 
 </h1>
 
 
