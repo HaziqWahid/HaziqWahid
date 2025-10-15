@@ -1,63 +1,77 @@
-### HAZIQ WAHID @ FULL TIME PROGRAMMER @ EX-STUDENT OF UNIVERSITI SAINS MALAYSIA 
-### <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-- 🎖️ Computer Sciences @ University Sciences Malaysia
-- 🤖 BSC in Computer Sciences
-- 🎓Majoring in Intelligent Computing
-- 🎓Elective in Software Engineering
-- 💻 I’m interested and passionate in Data Analyst/ Scientist , Ai Engineering, Software Development/ Engineering
-- 🎖️Internship at MyWave as Full Stack Developer (March - September 20203) working on HTMLS, JS,CSS, PHP, POSTGRE SQL, REACT.
+<!-- Profile Header -->
+<h1 align="center"> HAZIQ WAHID </h1>
 
-### Full Time Programmer
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:haziqwahid02@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haziqwahid020101/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDZjZXRpeG5vcTcwNzVjZTVkc2VjOXl6NmlkMXZ1c2lmazNsYnAyaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQ1EI1ML2ABQdbebup/200.gif" 
+       height="100" width="100" alt="Kyubey GIF" />
 </p>
 
-<h3 align="left">Tools & Technologies:</h3>
-<p align="left">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="" height="50" width="50"/>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="" height="50" width="50"/>
-<img align="center" src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="" height="50" width="50"/>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="" height="50" width="50"/>
-<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="" height="50" width="50"/>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" alt="" height="50" width="50"/>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png" alt="" height="50" width="50"/>
- <img align="center" src="https://www.fluttericon.com/logo_dart_192px.svg" alt="" height="50" width="50"/>
+---
+
+### 💼 Current Role  
+> **Full-Time Programmer @ GSC (Sept 2024 - Current)** — crafting efficient, intelligent, and scalable systems.
+
+- 🏗️ **Core Developer for Nationwide Kiosk Systems**  
+  Maintaining and enhancing a large-scale kiosk ecosystem operating across **55+ locations** and **400+ machines**.  
+  Responsible for ensuring high system uptime, seamless hardware integration, and fault-free performance.  
+  Developed and maintained kiosk applications built with **WPF** and **C# .NET**, integrating directly with devices such as **payment terminals**, **QR scanners**, and **cash dispensers**.
+- 🌐 **Web POS Modernization Project**  
+  Contributing to the transformation of a **20-year-old legacy system** into a modern **Web POS** platform.  
+  Working as a **Front-End Developer** using **React.js**, **Node.js**, and **RESTful APIs**, focusing on creating responsive, maintainable, and user-friendly interfaces.
+
+- 📊 **Data Integrity & Reporting (Month-End Operations)**  
+  Member of the Month-End team, ensuring every transaction is **accurately reconciled** and validated to support **finance and audit reporting**.  
+  Develop tools and scripts to automate data checks, improve consistency, and reduce manual reporting errors.
+- 🧠 **Research & Automation Initiatives**  
+  Conducting self-driven R&D to improve daily workflows using **Python**, including:  
+  - Report automation tools  
+  - PDF data extraction and processing scripts  
+  - Integration utilities for data validation and transformation
+---
+### 🏢 Past Experience  
+> **Internship @ MyWave (Mar – Sep 2023)** — *Full Stack Developer*
+- 💼 **In-House HR & Payroll System Development**  
+  Collaborated with a cross-functional team to build and enhance an **enterprise-grade Human Resource and Payroll Management System** tailored for internal company use.  
+  Focused on delivering secure, reliable, and intuitive web modules that streamline HR processes and payroll computation.
+- 💻 **Full Stack Responsibilities**  
+  - Developed front-end interfaces using **React.js**, **HTML5**, **CSS3**, and **JavaScript**, ensuring responsive and accessible design.  
+  - Built and optimized backend logic using **PHP** and **PostgreSQL**, improving data handling efficiency and query performance.  
+  - Integrated real-time data workflows and user authentication features to support payroll accuracy and employee management.
+- 🤝 **Team Collaboration & Best Practices**  
+  Worked closely with senior developers and designers in an **Agile environment**, participating in sprint reviews and code discussions.  
+  Gained exposure to **version control (Git)**, **API design**, and **end-to-end system debugging**, strengthening both technical and collaborative skills.
+---
+<h3 align="center">
+  🎓 Education 
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" 
+       height="45" width="45" 
+       style="vertical-align: middle; margin-left: 8px;" 
+       alt="Kyubey GIF" />
+</h3>
+
+-  **Bachelor of Science (BSc) in Computer Science**, *Universiti Sains Malaysia*  
+-  **Major:** Intelligent Computing — focused on Artificial Intelligence, Data Mining, and Machine Learning  
+-  **Elective:** Software Engineering — emphasizing software design patterns, testing, and scalability  
+-  **Areas of Interest:** AI Engineering, Data Analytics, and Full-Stack Software Development
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/HaziqWahid?cardType=github&theme=github-dark&preferLogin=false" alt="Haziq's GitHub Stats" />
 </p>
 
-<h3 align="left">Software I use:</h3>
-
-<p>
-<img align="center" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-c--logo-icon-32.png" alt="" height="45" width="45"/>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="" height="45" width="45"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="" height="45" width="45"/>
-
-
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png" alt="" height="45" width="45"/>
-<img align="center" src="https://gitlab.com/uploads/-/system/project/avatar/18103103/pngguru.com.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="" height="45" width="45"/>
-<img align="center" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/jupyter-icon-1024x1024.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" alt="" height="45" width="45"/>
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2752187-2285004.png" alt="" height="45" width="45"/>
- 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HaziqWahid&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<p>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/640px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="" height="45" width="45"/>
- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="" height="45" width="45"/>
+---
+
+<p align="center">
+  <i>“Code with passion, learn with curiosity, and build with purpose.”</i> 💫
 </p>
- 
- 
-### Ai | Software Developer/Engineer | Data Scientist/Analyst
 
-### 📊 Github Stats </p>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HaziqWahid?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HaziqWahid&theme=dark)](https://git.io/streak-stats)
-
-
+---
