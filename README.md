@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center"> HAZIQ WAHID </h1>
+<h1 align="center">
+  HAZIQ WAHID 
+</h1>
+
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDZjZXRpeG5vcTcwNzVjZTVkc2VjOXl6NmlkMXZ1c2lmazNsYnAyaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQ1EI1ML2ABQdbebup/200.gif" 
@@ -7,8 +10,10 @@
 </p>
 
 ---
-
-### 💼 Current Role  
+<h3 align="center">
+🏢 Current Role  
+  </h3>
+  
 > **Full-Time Programmer @ GSC (Sept 2024 - Current)** — crafting efficient, intelligent, and scalable systems.
 
 - 🏗️ **Core Developer for Kiosk Systems**  
@@ -28,8 +33,13 @@
   - PDF data extraction and processing scripts  
   - Integration utilities for data validation and transformation
 ---
-### 🏢 Past Experience  
+<h3 align="center">
+🏢 Past Experience  
+</h3>
 > **Internship @ MyWave (Mar – Sep 2023)** — *Full Stack Developer*
+  
+  </h3>
+  
 - 💼 **In-House HR & Payroll System Development**  
   Collaborated with a cross-functional team to build and enhance an **enterprise-grade Human Resource and Payroll Management System** tailored for internal company use.  
   Focused on delivering secure, reliable, and intuitive web modules that streamline HR processes and payroll computation.
@@ -55,9 +65,29 @@
 -  **Areas of Interest:** AI Engineering, Data Analytics, and Full-Stack Software Development
 
 ---
+<h3 align="center">
+   Final Year Project  
+  </h3>
+  
+> **MimicChat** — AI Conversational & Voice Cloning System  
+
+- 🧠 Developed an intelligent chatbot capable of mimicking human-like conversation flow using **NLP** and **Machine Learning**.  
+- 🔊 Integrated **voice cloning** to replicate personalized speech responses using trained voice models.  
+- ⚙️ Built with **Python**, **TensorFlow**, and **Flask**, featuring a lightweight **React** interface for real-time interaction.  
+- 🎯 Focused on **context retention**, **intent classification**, and delivering natural, responsive dialogue.  
+- 📂 [View Repository → MimicChat-FYP](https://github.com/HaziqWahid/MimicChat-FYP)
 
 ---
+#### This how i look like real life
 
+<p align="center">
+  <img src="https://s1.zerochan.net/Daijin.%28Suzume.no.Tojimari%29.600.3937115.jpg"  
+       height="500" width="500" 
+       style="border-radius: 25%;" 
+       alt="Logo" />
+</p>
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
