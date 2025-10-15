@@ -14,7 +14,7 @@
 🏢 Current Role  
   </h3>
   
-> **Full-Time Programmer @ GSC (Sept 2024 - Current)** — crafting efficient, intelligent, and scalable systems.
+> **Full-Time Programmer @ GS* (Sept 2024 - Current)** — crafting efficient, intelligent, and scalable systems.
 
 - 🏗️ **Core Developer for Kiosk Systems**  
   Maintaining and enhancing a large-scale kiosk ecosystem operating across **55+ locations** and **400+ machines**.  
