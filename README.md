@@ -26,7 +26,7 @@
 
 - 📊 **Data Integrity & Reporting (Month-End Operations)**  
   Member of the Month-End team, ensuring every transaction is **accurately reconciled** and validated to support **finance and audit reporting**.  
-  Develop tools and scripts to automate data checks, improve consistency, and reduce manual reporting errors.
+  Develop tools and scripts to automate data checks, improve consistency, and reduce manual reporting errors. Writing, Enhancing **MSSQL** Stored Procedure and sql debugging
 - 🧠 **Research & Automation Initiatives**  
   Conducting self-driven R&D to improve daily workflows using **Python**, including:  
   - Report automation tools  
