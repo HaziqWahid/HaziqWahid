@@ -11,7 +11,7 @@
 ### 💼 Current Role  
 > **Full-Time Programmer @ GSC (Sept 2024 - Current)** — crafting efficient, intelligent, and scalable systems.
 
-- 🏗️ **Core Developer for Nationwide Kiosk Systems**  
+- 🏗️ **Core Developer for Kiosk Systems**  
   Maintaining and enhancing a large-scale kiosk ecosystem operating across **55+ locations** and **400+ machines**.  
   Responsible for ensuring high system uptime, seamless hardware integration, and fault-free performance.  
   Developed and maintained kiosk applications built with **WPF** and **C# .NET**, integrating directly with devices such as **payment terminals**, **QR scanners**, and **cash dispensers**.
