@@ -78,7 +78,7 @@
 - 📂 [View Repository → MimicChat-FYP](https://github.com/HaziqWahid/MimicChat-FYP)
 
 ---
-#### This how i look like real life
+#### This is how I look like real life
 
 <p align="center">
   <img src="https://s1.zerochan.net/Daijin.%28Suzume.no.Tojimari%29.600.3937115.jpg"  
